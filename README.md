@@ -2,3 +2,4 @@
 command in README.file
 
 $ cal (year)
+example: cal 2025
